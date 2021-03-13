@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: #f6f8f8;
+    text-decoration: underline;
+}
+
+.wrap-padding {
+    padding: 32px;
+}
+
+.btn-primary {
+    display: inline-block;
+    background: transparent;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 7px 25px 9.5px;
+    border-radius: 100px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn-secondary {
+
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    padding: 8px;
+}

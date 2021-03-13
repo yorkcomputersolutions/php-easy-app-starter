@@ -1,0 +1,13 @@
+.wrap-login {
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.wrap-login .wrap-padding {
+    text-align: center;
+}
+
+.form-table-login {
+    margin: 0 auto;
+}
